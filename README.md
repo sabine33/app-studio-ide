@@ -2,5 +2,5 @@
 Simple Visual IDE for creating basic android apps 
 **Source code would be uploaded soon.
 
-![Demo One](Demo_1.png)
-![Demo Two](Demo_2.png)
+![Demo One](https://github.com/sabine33/app-studio-ide/blob/main/demo_2.png?raw=true)
+![Demo Two](https://github.com/sabine33/app-studio-ide/blob/main/demo_2.png?raw=true)
