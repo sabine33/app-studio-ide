@@ -1,6 +1,10 @@
 # app-studio-ide
 Simple Visual IDE for creating basic android apps 
 
+This project was created in 2015 as a university project. Source code are not so optimized. 
+
+**If anyone wants to extend it: Source code would be provided with MIT License + CCBYA .
+
 ___
 **Source code would be uploaded soon.
 
